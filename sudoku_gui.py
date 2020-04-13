@@ -11,7 +11,7 @@ class Window(QMainWindow):
         self.setMinimumHeight(500)
         self.setMinimumWidth(500)
 
-        self.setWindowIcon(QIcon("index.png"))
+        self.setWindowIcon(QIcon("images/index.png"))
         self.createMenu()
         self.setCentralWidget(self.createBoard())
 
