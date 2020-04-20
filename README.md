@@ -1,0 +1,1 @@
+# **Sudoku for trainning purposes**
