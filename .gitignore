@@ -2,3 +2,5 @@
 /.idea
 /requirements.txt
 /venv
+*.sol
+__pycache__
